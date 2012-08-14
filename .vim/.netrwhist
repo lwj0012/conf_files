@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/liu/.local/share/gnome-shell/extensions/remove_activities@jimjam'
+let g:netrw_dirhist_2='/home/liu/.vim'
+let g:netrw_dirhist_3='/home/liu'
+let g:netrw_dirhist_4='/var/log'
+let g:netrw_dirhist_5='/home/liu/doc'
+let g:netrw_dirhist_6='/home/liu/.themes/Aqua'
+let g:netrw_dirhist_7='/home/liu/public_html/photowall/css'
+let g:netrw_dirhist_8='/home/liu/.vim/vim-addons/snipmate'
